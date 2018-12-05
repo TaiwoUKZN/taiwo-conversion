@@ -2,4 +2,5 @@ conversion functions needed:
 -rands to cents
 -hous to minutes
 -kg to pounds
+-celsius to fahrenheitrands to naira
 
